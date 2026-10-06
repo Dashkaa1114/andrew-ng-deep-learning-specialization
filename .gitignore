@@ -1,0 +1,10 @@
+.venv/
+venv/
+Deep-Learning-Specialization-Andrew-Ng/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
